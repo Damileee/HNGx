@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.profile {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.profile img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.current-info {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.current-info p {
+    font-size: 18px;
+    margin: 5px;
+}
